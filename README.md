@@ -18,4 +18,4 @@ Waiting for 5 seconds until block being mined...
 Receipt status for 0x3986766973b25757b1c360f5cef0120749e3e0e301fd3227ee5a9fcb12f36452: Success
 ```
 
-Status of tx could being checked by url: <https://ropsten.etherscan.io/tx/0x3986766973b25757b1c360f5cef0120749e3e0e301fd3227ee5a9fcb12f36452>
+Status of tx could be checked by url: <https://ropsten.etherscan.io/tx/0x3986766973b25757b1c360f5cef0120749e3e0e301fd3227ee5a9fcb12f36452>
